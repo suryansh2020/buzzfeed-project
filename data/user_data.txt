@@ -1,0 +1,3606 @@
+{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 428333, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF", 
+"verified": true, 
+"profile_text_color": "000000", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/1762504301/128x128_cnnbrk_avatar_normal.gif", 
+"profile_sidebar_fill_color": "EEEEEE", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/yG5YtDGw4L", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://cnn.com/", 
+"display_url": "cnn.com"
+}
+]
+}, 
+"description": {
+"urls": [
+{
+"url": "http://t.co/7MKO8Ma1Tb", 
+"indices": [
+32, 
+54
+], 
+"expanded_url": "http://CNN.com", 
+"display_url": "CNN.com"
+}
+]
+}
+}, 
+"followers_count": 15971622, 
+"profile_sidebar_border_color": "DADADA", 
+"id_str": "428333", 
+"profile_background_color": "323232", 
+"listed_count": 149907, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "RT @CNNMoney: Honda is recalling 900,000 Odyssey minivans because of a fire risk: http://t.co/Sehd0F0eM7 @gregorywallace", 
+"in_reply_to_status_id": null, 
+"id": 445234147230232576, 
+"favorite_count": 0, 
+"source": "web", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [
+{
+"id": 16184358, 
+"indices": [
+3, 
+12
+], 
+"id_str": "16184358", 
+"screen_name": "CNNMoney", 
+"name": "CNNMoney.com"
+}, 
+{
+"id": 310128043, 
+"indices": [
+105, 
+120
+], 
+"id_str": "310128043", 
+"screen_name": "gregorywallace", 
+"name": "Gregory Wallace"
+}
+], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/Sehd0F0eM7", 
+"indices": [
+82, 
+104
+], 
+"expanded_url": "http://cnnmon.ie/1fN91FE", 
+"display_url": "cnnmon.ie/1fN91FE"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445234147230232576", 
+"retweet_count": 270, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"retweeted_status": {
+"contributors": null, 
+"truncated": false, 
+"text": "Honda is recalling 900,000 Odyssey minivans because of a fire risk: http://t.co/Sehd0F0eM7 @gregorywallace", 
+"in_reply_to_status_id": null, 
+"id": 445233719864201216, 
+"favorite_count": 86, 
+"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [
+{
+"id": 310128043, 
+"indices": [
+91, 
+106
+], 
+"id_str": "310128043", 
+"screen_name": "gregorywallace", 
+"name": "Gregory Wallace"
+}
+], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/Sehd0F0eM7", 
+"indices": [
+68, 
+90
+], 
+"expanded_url": "http://cnnmon.ie/1fN91FE", 
+"display_url": "cnnmon.ie/1fN91FE"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445233719864201216", 
+"retweet_count": 270, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 16:22:45 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 16:24:27 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": true, 
+"utc_offset": -14400, 
+"statuses_count": 30741, 
+"description": "Breaking News from CNN, via the http://t.co/7MKO8Ma1Tb homepage team. Now 15M strong. Check @cnn for all things CNN, breaking and more.", 
+"friends_count": 98, 
+"location": "Everywhere", 
+"profile_link_color": "004287", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/1762504301/128x128_cnnbrk_avatar_normal.gif", 
+"following": false, 
+"geo_enabled": false, 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF", 
+"screen_name": "cnnbrk", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 13, 
+"name": "CNN Breaking News", 
+"notifications": false, 
+"url": "http://t.co/yG5YtDGw4L", 
+"created_at": "Tue Jan 02 01:48:14 +0000 2007", 
+"contributors_enabled": false, 
+"time_zone": "Eastern Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 5402612, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/571084338/bgjygltd2afkpc1sdnjd.jpeg", 
+"verified": true, 
+"profile_text_color": "5A5A5A", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/2186829506/128x128_twitter_bbc_breaking_normal.jpg", 
+"profile_sidebar_fill_color": "FFFFFF", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/MPXMacBD7f", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://www.bbc.co.uk/news", 
+"display_url": "bbc.co.uk/news"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 9127674, 
+"profile_sidebar_border_color": "CCCCCC", 
+"id_str": "5402612", 
+"profile_background_color": "FFFFFF", 
+"listed_count": 90213, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "Exit poll says around 93% of voters in Crimea backed joining Russia, news agencies in Russia report http://t.co/vHnQGphyzg", 
+"in_reply_to_status_id": null, 
+"id": 445261806723153920, 
+"favorite_count": 19, 
+"source": "<a href=\"http://www.comufy.com\" rel=\"nofollow\">Comufy Social</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/vHnQGphyzg", 
+"indices": [
+100, 
+122
+], 
+"expanded_url": "http://bbc.in/1iSCyfT", 
+"display_url": "bbc.in/1iSCyfT"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445261806723153920", 
+"retweet_count": 97, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 18:14:21 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": true, 
+"utc_offset": 0, 
+"statuses_count": 17865, 
+"description": "Breaking news alerts and updates from the BBC. For news, features, analysis follow @BBCWorld (international) or @BBCNews (UK). Latest sport news @BBCSport.", 
+"friends_count": 3, 
+"location": "London, UK", 
+"profile_link_color": "1F527B", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/2186829506/128x128_twitter_bbc_breaking_normal.jpg", 
+"following": false, 
+"geo_enabled": false, 
+"profile_banner_url": "https://pbs.twimg.com/profile_banners/5402612/1357232722", 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/571084338/bgjygltd2afkpc1sdnjd.jpeg", 
+"screen_name": "BBCBreaking", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 0, 
+"name": "BBC Breaking News", 
+"notifications": false, 
+"url": "http://t.co/MPXMacBD7f", 
+"created_at": "Sun Apr 22 14:42:37 +0000 2007", 
+"contributors_enabled": false, 
+"time_zone": "London", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 6017542, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/661943965/2eu2ntwqt6ereyyumm38.png", 
+"verified": true, 
+"profile_text_color": "333333", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000700003994/53d967d27656bd5941e7e1fcddf47e0b_normal.png", 
+"profile_sidebar_fill_color": "F3F3F3", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/kmGFmDDoPa", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://www.breakingnews.com/about/mobile", 
+"display_url": "breakingnews.com/about/mobile"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 6561256, 
+"profile_sidebar_border_color": "FFFFFF", 
+"id_str": "6017542", 
+"profile_background_color": "EEEEEE", 
+"listed_count": 86646, 
+"status": {
+"lang": "en", 
+"favorited": false, 
+"entities": {
+"symbols": [], 
+"user_mentions": [
+{
+"id": 143326098, 
+"indices": [
+80, 
+96
+], 
+"id_str": "143326098", 
+"screen_name": "riabreakingnews", 
+"name": "\u0420\u0418\u0410 \u041d\u043e\u0432\u043e\u0441\u0442\u0438"
+}, 
+{
+"id": 1652541, 
+"indices": [
+101, 
+109
+], 
+"id_str": "1652541", 
+"screen_name": "Reuters", 
+"name": "Reuters Top News"
+}
+], 
+"hashtags": [], 
+"urls": []
+}, 
+"contributors": null, 
+"truncated": false, 
+"text": "Exit polls show 93% of voters in Ukraine's Crimea supported union with Russia - @riabreakingnews via @Reuters", 
+"created_at": "Sun Mar 16 18:09:18 +0000 2014", 
+"retweeted": false, 
+"in_reply_to_status_id_str": null, 
+"coordinates": null, 
+"in_reply_to_user_id_str": null, 
+"source": "<a href=\"http://www.breakingnews.com\" rel=\"nofollow\">breakingnews.app</a>", 
+"in_reply_to_status_id": null, 
+"in_reply_to_screen_name": null, 
+"id_str": "445260532866908160", 
+"place": null, 
+"retweet_count": 188, 
+"geo": null, 
+"id": 445260532866908160, 
+"favorite_count": 13, 
+"in_reply_to_user_id": null
+}, 
+"is_translation_enabled": true, 
+"utc_offset": -14400, 
+"statuses_count": 83613, 
+"description": "Download our new iOS and Android apps to control the breaking news you want to see.", 
+"friends_count": 481, 
+"location": "Global", 
+"profile_link_color": "CC0000", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/378800000700003994/53d967d27656bd5941e7e1fcddf47e0b_normal.png", 
+"following": false, 
+"geo_enabled": false, 
+"profile_banner_url": "https://pbs.twimg.com/profile_banners/6017542/1383589267", 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/661943965/2eu2ntwqt6ereyyumm38.png", 
+"screen_name": "BreakingNews", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 51, 
+"name": "Breaking News", 
+"notifications": false, 
+"url": "http://t.co/kmGFmDDoPa", 
+"created_at": "Sun May 13 23:06:45 +0000 2007", 
+"contributors_enabled": false, 
+"time_zone": "Eastern Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": false, 
+"default_profile_image": false, 
+"id": 2205386796, 
+"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+"verified": false, 
+"profile_text_color": "333333", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000794008900/5a7c7ee072e92684fd843a4769b9ccd7_normal.png", 
+"profile_sidebar_fill_color": "DDEEF6", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/Lsn5HANqWU", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://mashable.com", 
+"display_url": "mashable.com"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 2384, 
+"profile_sidebar_border_color": "FFFFFF", 
+"id_str": "2205386796", 
+"profile_background_color": "E6C926", 
+"listed_count": 118, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "RT @mashable: Update: 3 dead, 69 injured, several missing after buildings explode in NYC http://t.co/0cz9NoBS47 http://t.co/HKVro2sCsy", 
+"in_reply_to_status_id": null, 
+"id": 443882499136319488, 
+"favorite_count": 0, 
+"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [
+{
+"id": 972651, 
+"indices": [
+3, 
+12
+], 
+"id_str": "972651", 
+"screen_name": "mashable", 
+"name": "Mashable"
+}
+], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/0cz9NoBS47", 
+"indices": [
+89, 
+111
+], 
+"expanded_url": "http://on.mash.to/1dSbcXm", 
+"display_url": "on.mash.to/1dSbcXm"
+}
+], 
+"media": [
+{
+"expanded_url": "http://twitter.com/mashable/status/443882385718149120/photo/1", 
+"display_url": "pic.twitter.com/HKVro2sCsy", 
+"url": "http://t.co/HKVro2sCsy", 
+"media_url_https": "https://pbs.twimg.com/media/Bij8rYXIUAAliG3.jpg", 
+"id_str": "443882385500033024", 
+"sizes": {
+"small": {
+"h": 191, 
+"resize": "fit", 
+"w": 340
+}, 
+"large": {
+"h": 534, 
+"resize": "fit", 
+"w": 950
+}, 
+"medium": {
+"h": 337, 
+"resize": "fit", 
+"w": 600
+}, 
+"thumb": {
+"h": 150, 
+"resize": "crop", 
+"w": 150
+}
+}, 
+"indices": [
+112, 
+134
+], 
+"type": "photo", 
+"id": 443882385500033024, 
+"media_url": "http://pbs.twimg.com/media/Bij8rYXIUAAliG3.jpg"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "443882499136319488", 
+"retweet_count": 262, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"retweeted_status": {
+"contributors": null, 
+"truncated": false, 
+"text": "Update: 3 dead, 69 injured, several missing after buildings explode in NYC http://t.co/0cz9NoBS47 http://t.co/HKVro2sCsy", 
+"in_reply_to_status_id": null, 
+"id": 443882385718149120, 
+"favorite_count": 42, 
+"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/0cz9NoBS47", 
+"indices": [
+75, 
+97
+], 
+"expanded_url": "http://on.mash.to/1dSbcXm", 
+"display_url": "on.mash.to/1dSbcXm"
+}
+], 
+"media": [
+{
+"expanded_url": "http://twitter.com/mashable/status/443882385718149120/photo/1", 
+"display_url": "pic.twitter.com/HKVro2sCsy", 
+"url": "http://t.co/HKVro2sCsy", 
+"media_url_https": "https://pbs.twimg.com/media/Bij8rYXIUAAliG3.jpg", 
+"id_str": "443882385500033024", 
+"sizes": {
+"small": {
+"h": 191, 
+"resize": "fit", 
+"w": 340
+}, 
+"large": {
+"h": 534, 
+"resize": "fit", 
+"w": 950
+}, 
+"medium": {
+"h": 337, 
+"resize": "fit", 
+"w": 600
+}, 
+"thumb": {
+"h": 150, 
+"resize": "crop", 
+"w": 150
+}
+}, 
+"indices": [
+98, 
+120
+], 
+"type": "photo", 
+"id": 443882385500033024, 
+"media_url": "http://pbs.twimg.com/media/Bij8rYXIUAAliG3.jpg"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "443882385718149120", 
+"retweet_count": 262, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Wed Mar 12 22:53:02 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Wed Mar 12 22:53:29 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": false, 
+"utc_offset": null, 
+"statuses_count": 883, 
+"description": "Real-time curation during breaking news events by @mashable reporters and editors.", 
+"friends_count": 23, 
+"location": "", 
+"profile_link_color": "0084B4", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/378800000794008900/5a7c7ee072e92684fd843a4769b9ccd7_normal.png", 
+"following": false, 
+"geo_enabled": false, 
+"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+"screen_name": "MashableLive", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 23, 
+"name": "MashableLIVE", 
+"notifications": false, 
+"url": "http://t.co/Lsn5HANqWU", 
+"created_at": "Wed Nov 20 18:31:48 +0000 2013", 
+"contributors_enabled": false, 
+"time_zone": null, 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 23484039, 
+"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+"verified": false, 
+"profile_text_color": "333333", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/91269810/wsj_bk_news_normal.jpg", 
+"profile_sidebar_fill_color": "EFEFEF", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/sVM6XueaHF", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://wsj.com/", 
+"display_url": "wsj.com"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 219046, 
+"profile_sidebar_border_color": "EEEEEE", 
+"id_str": "23484039", 
+"profile_background_color": "131516", 
+"listed_count": 8238, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "German utility RWE plans to sell its oil and gas unit to a Russian billionaire in a $7 billion deal.  http://t.co/GNvXCQ0GcC", 
+"in_reply_to_status_id": null, 
+"id": 445258306194788352, 
+"favorite_count": 4, 
+"source": "<a href=\"http://online.wsj.com\" rel=\"nofollow\">WSJ.com</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/GNvXCQ0GcC", 
+"indices": [
+102, 
+124
+], 
+"expanded_url": "http://on.wsj.com/1kV4ioP", 
+"display_url": "on.wsj.com/1kV4ioP"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445258306194788352", 
+"retweet_count": 20, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 18:00:27 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": false, 
+"utc_offset": -14400, 
+"statuses_count": 4568, 
+"description": "Breaking news from The Wall Street Journal.", 
+"friends_count": 43, 
+"location": "New York, NY", 
+"profile_link_color": "009999", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/91269810/wsj_bk_news_normal.jpg", 
+"following": false, 
+"geo_enabled": true, 
+"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+"screen_name": "WSJbreakingnews", 
+"lang": "en", 
+"profile_background_tile": true, 
+"favourites_count": 0, 
+"name": "WSJ Breaking News", 
+"notifications": false, 
+"url": "http://t.co/sVM6XueaHF", 
+"created_at": "Mon Mar 09 19:17:56 +0000 2009", 
+"contributors_enabled": false, 
+"time_zone": "Eastern Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 51241574, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/734506342/b3be603514207db70cb0a991c26f2718.jpeg", 
+"verified": true, 
+"profile_text_color": "333333", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/1848193664/APLogo_normal.jpg", 
+"profile_sidebar_fill_color": "CCCCCC", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/fp59ZdYmr1", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://www.ap.org", 
+"display_url": "ap.org"
+}
+]
+}, 
+"description": {
+"urls": [
+{
+"url": "http://t.co/qej5Fpwahh", 
+"indices": [
+127, 
+149
+], 
+"expanded_url": "http://apne.ws/J2EPJ5", 
+"display_url": "apne.ws/J2EPJ5"
+}
+]
+}
+}, 
+"followers_count": 3070923, 
+"profile_sidebar_border_color": "FFFFFF", 
+"id_str": "51241574", 
+"profile_background_color": "333333", 
+"listed_count": 55580, 
+"status": {
+"lang": "en", 
+"favorited": false, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [], 
+"urls": []
+}, 
+"contributors": null, 
+"truncated": false, 
+"text": "BREAKING: US rejects Crimea vote held under `threats of violence and intimidation' by Russian military.", 
+"created_at": "Sun Mar 16 18:14:09 +0000 2014", 
+"retweeted": false, 
+"in_reply_to_status_id_str": null, 
+"coordinates": null, 
+"in_reply_to_user_id_str": null, 
+"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+"in_reply_to_status_id": null, 
+"in_reply_to_screen_name": null, 
+"id_str": "445261752792793088", 
+"place": null, 
+"retweet_count": 156, 
+"geo": null, 
+"id": 445261752792793088, 
+"favorite_count": 35, 
+"in_reply_to_user_id": null
+}, 
+"is_translation_enabled": true, 
+"utc_offset": -14400, 
+"statuses_count": 75765, 
+"description": "News, discussion and behind-the-scenes insight from The Associated Press. Managed 24/7 by a team of editors based in New York: http://t.co/qej5Fpwahh", 
+"friends_count": 7408, 
+"location": "Global", 
+"profile_link_color": "CC3300", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/1848193664/APLogo_normal.jpg", 
+"following": false, 
+"geo_enabled": false, 
+"profile_banner_url": "https://pbs.twimg.com/profile_banners/51241574/1382646503", 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/734506342/b3be603514207db70cb0a991c26f2718.jpeg", 
+"screen_name": "AP", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 0, 
+"name": "The Associated Press", 
+"notifications": false, 
+"url": "http://t.co/fp59ZdYmr1", 
+"created_at": "Fri Jun 26 21:48:52 +0000 2009", 
+"contributors_enabled": false, 
+"time_zone": "Eastern Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 1652541, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/735542174/340f8869cdcabbcc436096587143cc38.png", 
+"verified": true, 
+"profile_text_color": "000000", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/3379693153/1008914c0ae75c9efb5f9c0161fce9a2_normal.png", 
+"profile_sidebar_fill_color": "F5F5F5", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/BmHxhkm3Mh", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://www.reuters.com", 
+"display_url": "reuters.com"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 4068122, 
+"profile_sidebar_border_color": "000000", 
+"id_str": "1652541", 
+"profile_background_color": "444444", 
+"listed_count": 80403, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "Hindu temple set on fire in Pakistan over blasphemy http://t.co/BfAyndyoA0", 
+"in_reply_to_status_id": null, 
+"id": 445248449294766080, 
+"favorite_count": 27, 
+"source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/BfAyndyoA0", 
+"indices": [
+52, 
+74
+], 
+"expanded_url": "http://reut.rs/1e875GP", 
+"display_url": "reut.rs/1e875GP"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445248449294766080", 
+"retweet_count": 118, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 17:21:17 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": true, 
+"utc_offset": -14400, 
+"statuses_count": 99055, 
+"description": "Top and breaking news, pictures, and videos from Reuters.", 
+"friends_count": 1025, 
+"location": "Around the world", 
+"profile_link_color": "006F97", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/3379693153/1008914c0ae75c9efb5f9c0161fce9a2_normal.png", 
+"following": false, 
+"geo_enabled": false, 
+"profile_banner_url": "https://pbs.twimg.com/profile_banners/1652541/1394815580", 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/735542174/340f8869cdcabbcc436096587143cc38.png", 
+"screen_name": "Reuters", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 845, 
+"name": "Reuters Top News", 
+"notifications": false, 
+"url": "http://t.co/BmHxhkm3Mh", 
+"created_at": "Tue Mar 20 17:46:05 +0000 2007", 
+"contributors_enabled": false, 
+"time_zone": "Eastern Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": false, 
+"default_profile_image": false, 
+"id": 441389311, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/685434963/0b988a28e4218230b80c6e4d69c740bf.png", 
+"verified": true, 
+"profile_text_color": "333333", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000544619103/99fdc60391a634a400f8327a26203968_normal.png", 
+"profile_sidebar_fill_color": "DDEEF6", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/tAwMWg6ED1", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://cir.ca", 
+"display_url": "cir.ca"
+}
+]
+}, 
+"description": {
+"urls": [
+{
+"url": "http://t.co/PUxrfHtEpK", 
+"indices": [
+92, 
+114
+], 
+"expanded_url": "http://cir.ca/", 
+"display_url": "cir.ca"
+}
+]
+}
+}, 
+"followers_count": 18679, 
+"profile_sidebar_border_color": "FFFFFF", 
+"id_str": "441389311", 
+"profile_background_color": "F5F5F5", 
+"listed_count": 946, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "Tribal violence in central Nigeria kills 100 http://t.co/Jt6sLEj7MZ", 
+"in_reply_to_status_id": null, 
+"id": 445258278935986176, 
+"favorite_count": 0, 
+"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/Jt6sLEj7MZ", 
+"indices": [
+45, 
+67
+], 
+"expanded_url": "http://cir.ca/news/central-nigeria-fulani-tribal-violence", 
+"display_url": "cir.ca/news/central-n\u2026"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445258278935986176", 
+"retweet_count": 1, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "es", 
+"created_at": "Sun Mar 16 18:00:20 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": false, 
+"utc_offset": -25200, 
+"statuses_count": 12128, 
+"description": "Save time. Stay informed. Circa is the best way to read news while on the go. \n\nDownload at http://t.co/PUxrfHtEpK", 
+"friends_count": 9686, 
+"location": "San Francisco, CA", 
+"profile_link_color": "67C8C3", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/378800000544619103/99fdc60391a634a400f8327a26203968_normal.png", 
+"following": false, 
+"geo_enabled": false, 
+"profile_banner_url": "https://pbs.twimg.com/profile_banners/441389311/1380841077", 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/685434963/0b988a28e4218230b80c6e4d69c740bf.png", 
+"screen_name": "Circa", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 2139, 
+"name": "Circa", 
+"notifications": false, 
+"url": "http://t.co/tAwMWg6ED1", 
+"created_at": "Tue Dec 20 01:45:39 +0000 2011", 
+"contributors_enabled": false, 
+"time_zone": "Pacific Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 380648579, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/579525526/bk1nk0d4v59httnhh2uu.jpeg", 
+"verified": true, 
+"profile_text_color": "333333", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/2935124510/f636481c270553b300ad9d344f525109_normal.jpeg", 
+"profile_sidebar_fill_color": "E6F6F9", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/kqhCI1Bvmj", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://www.afp.com/en", 
+"display_url": "afp.com/en"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 165755, 
+"profile_sidebar_border_color": "DBE9ED", 
+"id_str": "380648579", 
+"profile_background_color": "C0DEED", 
+"listed_count": 5338, 
+"status": {
+"lang": "en", 
+"favorited": false, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [
+{
+"indices": [
+0, 
+9
+], 
+"text": "BREAKING"
+}
+], 
+"urls": []
+}, 
+"contributors": null, 
+"truncated": false, 
+"text": "#BREAKING: Crimea votes to join Russia by 93 percent: exit polls", 
+"created_at": "Sun Mar 16 18:06:16 +0000 2014", 
+"retweeted": false, 
+"in_reply_to_status_id_str": null, 
+"coordinates": null, 
+"in_reply_to_user_id_str": null, 
+"source": "web", 
+"in_reply_to_status_id": null, 
+"in_reply_to_screen_name": null, 
+"id_str": "445259768626561024", 
+"place": null, 
+"retweet_count": 303, 
+"geo": null, 
+"id": 445259768626561024, 
+"favorite_count": 24, 
+"in_reply_to_user_id": null
+}, 
+"is_translation_enabled": true, 
+"utc_offset": 3600, 
+"statuses_count": 43724, 
+"description": "News - and the stories behind the news - from AFP's reporters around the world. In French: @afpfr. In Spanish: @AFPespanol. For photos: @AFPphoto", 
+"friends_count": 529, 
+"location": "France", 
+"profile_link_color": "0084B4", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/2935124510/f636481c270553b300ad9d344f525109_normal.jpeg", 
+"following": false, 
+"geo_enabled": false, 
+"profile_banner_url": "https://pbs.twimg.com/profile_banners/380648579/1357749438", 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/579525526/bk1nk0d4v59httnhh2uu.jpeg", 
+"screen_name": "AFP", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 55, 
+"name": "Agence France-Presse", 
+"notifications": false, 
+"url": "http://t.co/kqhCI1Bvmj", 
+"created_at": "Tue Sep 27 00:35:10 +0000 2011", 
+"contributors_enabled": false, 
+"time_zone": "Paris", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 45565185, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736112512/78505c66be482cc0103d4e3883cd7ba9.jpeg", 
+"verified": true, 
+"profile_text_color": "333333", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000215294227/231de750c1fe828cac38eb41a293f36c_normal.png", 
+"profile_sidebar_fill_color": "DDEEF6", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/ywMPMcfW", 
+"indices": [
+0, 
+20
+], 
+"expanded_url": "http://nymag.com/daily/intelligencer", 
+"display_url": "nymag.com/daily/intellig\u2026"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 27207, 
+"profile_sidebar_border_color": "FFFFFF", 
+"id_str": "45565185", 
+"profile_background_color": "131516", 
+"listed_count": 1328, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "Crimea Votes on Whether to Secede From Ukraine and Join Russia http://t.co/nuGO77aklZ", 
+"in_reply_to_status_id": null, 
+"id": 445240847202652160, 
+"favorite_count": 0, 
+"source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/nuGO77aklZ", 
+"indices": [
+63, 
+85
+], 
+"expanded_url": "http://nym.ag/1e80ETZ", 
+"display_url": "nym.ag/1e80ETZ"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445240847202652160", 
+"retweet_count": 0, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 16:51:04 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": false, 
+"utc_offset": -14400, 
+"statuses_count": 20370, 
+"description": "New York Magazine's news blog. Tweets by @stefanjbecket.", 
+"friends_count": 1612, 
+"location": "New York, NY", 
+"profile_link_color": "F50814", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/378800000215294227/231de750c1fe828cac38eb41a293f36c_normal.png", 
+"following": false, 
+"geo_enabled": false, 
+"profile_banner_url": "https://pbs.twimg.com/profile_banners/45565185/1353369553", 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736112512/78505c66be482cc0103d4e3883cd7ba9.jpeg", 
+"screen_name": "intelligencer", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 459, 
+"name": "Daily Intelligencer", 
+"notifications": false, 
+"url": "http://t.co/ywMPMcfW", 
+"created_at": "Mon Jun 08 13:34:27 +0000 2009", 
+"contributors_enabled": false, 
+"time_zone": "Eastern Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 14511951, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png", 
+"verified": true, 
+"profile_text_color": "000000", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/444608185253363712/k6zX00cq_normal.jpeg", 
+"profile_sidebar_fill_color": "E3E2DE", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/3OfNk6hKu8", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://www.huffingtonpost.com", 
+"display_url": "huffingtonpost.com"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 3953344, 
+"profile_sidebar_border_color": "FFFFFF", 
+"id_str": "14511951", 
+"profile_background_color": "2E7060", 
+"listed_count": 66676, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "Meet the prettiest beach in the world http://t.co/K8YOGm7hd2", 
+"in_reply_to_status_id": null, 
+"id": 445262012244037632, 
+"favorite_count": 9, 
+"source": "<a href=\"http://www.huffingtonpost.com\" rel=\"nofollow\">The Huffington Post</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/K8YOGm7hd2", 
+"indices": [
+38, 
+60
+], 
+"expanded_url": "http://huff.to/1fwmk8N", 
+"display_url": "huff.to/1fwmk8N"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445262012244037632", 
+"retweet_count": 11, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 18:15:10 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": true, 
+"utc_offset": -14400, 
+"statuses_count": 315650, 
+"description": "internet lovers | sleep believers | news addicts | big font obsessives | greek yogurt fans", 
+"friends_count": 5500, 
+"location": "", 
+"profile_link_color": "015E50", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/444608185253363712/k6zX00cq_normal.jpeg", 
+"following": false, 
+"geo_enabled": true, 
+"profile_banner_url": "https://pbs.twimg.com/profile_banners/14511951/1393823682", 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png", 
+"screen_name": "HuffingtonPost", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 303, 
+"name": "Huffington Post", 
+"notifications": false, 
+"url": "http://t.co/3OfNk6hKu8", 
+"created_at": "Thu Apr 24 14:07:28 +0000 2008", 
+"contributors_enabled": false, 
+"time_zone": "Eastern Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 16012783, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/662622637/orsgxv91k6lu6jq3zunq.jpeg", 
+"verified": true, 
+"profile_text_color": "000000", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/2722860646/378326807a778b3cdf2bfe33348aab73_normal.png", 
+"profile_sidebar_fill_color": "F6F5EF", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/WMZ5efTKWH", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://thedailybeast.com", 
+"display_url": "thedailybeast.com"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 691245, 
+"profile_sidebar_border_color": "FFFFFF", 
+"id_str": "16012783", 
+"profile_background_color": "363636", 
+"listed_count": 19612, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "University professors who teach women's studies should be shot, according to this insane person http://t.co/ORxkTW5BLV #FringeFactor", 
+"in_reply_to_status_id": null, 
+"id": 445256417621331968, 
+"favorite_count": 6, 
+"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [
+{
+"indices": [
+119, 
+132
+], 
+"text": "FringeFactor"
+}
+], 
+"urls": [
+{
+"url": "http://t.co/ORxkTW5BLV", 
+"indices": [
+96, 
+118
+], 
+"expanded_url": "http://thebea.st/1hovI0B", 
+"display_url": "thebea.st/1hovI0B"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445256417621331968", 
+"retweet_count": 14, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": true, 
+"lang": "en", 
+"created_at": "Sun Mar 16 17:52:57 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": false, 
+"utc_offset": -18000, 
+"statuses_count": 88374, 
+"description": "Read this, tweet that. 2012 & 2013 #Webby winner for best news website!", 
+"friends_count": 753, 
+"location": "", 
+"profile_link_color": "FF0000", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/2722860646/378326807a778b3cdf2bfe33348aab73_normal.png", 
+"following": false, 
+"geo_enabled": false, 
+"profile_banner_url": "https://pbs.twimg.com/profile_banners/16012783/1347987950", 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/662622637/orsgxv91k6lu6jq3zunq.jpeg", 
+"screen_name": "thedailybeast", 
+"lang": "en", 
+"profile_background_tile": true, 
+"favourites_count": 485, 
+"name": "The Daily Beast", 
+"notifications": false, 
+"url": "http://t.co/WMZ5efTKWH", 
+"created_at": "Wed Aug 27 15:24:02 +0000 2008", 
+"contributors_enabled": false, 
+"time_zone": "Quito", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 15754281, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000089862470/7aa9f896147a89917aa047e30ab6ebc2.jpeg", 
+"verified": true, 
+"profile_text_color": "000000", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/2609444766/pg3cwi4ht9fq2d08l7a1_normal.png", 
+"profile_sidebar_fill_color": "FFFFFF", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/7xDl0vVHSt", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://www.usatoday.com", 
+"display_url": "usatoday.com"
+}
+]
+}, 
+"description": {
+"urls": [
+{
+"url": "http://t.co/tZlSo5NBEn", 
+"indices": [
+55, 
+77
+], 
+"expanded_url": "http://USATODAY.com", 
+"display_url": "USATODAY.com"
+}
+]
+}
+}, 
+"followers_count": 991106, 
+"profile_sidebar_border_color": "FFFFFF", 
+"id_str": "15754281", 
+"profile_background_color": "0092D0", 
+"listed_count": 21035, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "#BREAKING Reports: Crimea votes to join Russia, exit polls show http://t.co/VFXesLbnoD", 
+"in_reply_to_status_id": null, 
+"id": 445261818572046336, 
+"favorite_count": 6, 
+"source": "<a href=\"http://www.usatoday.com\" rel=\"nofollow\">USA TODAY Breaking News</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [
+{
+"indices": [
+0, 
+9
+], 
+"text": "BREAKING"
+}
+], 
+"urls": [
+{
+"url": "http://t.co/VFXesLbnoD", 
+"indices": [
+64, 
+86
+], 
+"expanded_url": "http://usat.ly/1iRmDi6", 
+"display_url": "usat.ly/1iRmDi6"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445261818572046336", 
+"retweet_count": 54, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 18:14:24 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": false, 
+"utc_offset": -14400, 
+"statuses_count": 82546, 
+"description": "The latest news headlines and interesting stories from http://t.co/tZlSo5NBEn's top news, plus tweets from our social media team.", 
+"friends_count": 670, 
+"location": "USA TODAY HQ, McLean, Va.", 
+"profile_link_color": "0000FF", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/2609444766/pg3cwi4ht9fq2d08l7a1_normal.png", 
+"following": false, 
+"geo_enabled": false, 
+"profile_banner_url": "https://pbs.twimg.com/profile_banners/15754281/1381150791", 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000089862470/7aa9f896147a89917aa047e30ab6ebc2.jpeg", 
+"screen_name": "USATODAY", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 564, 
+"name": "USA TODAY", 
+"notifications": false, 
+"url": "http://t.co/7xDl0vVHSt", 
+"created_at": "Wed Aug 06 19:55:31 +0000 2008", 
+"contributors_enabled": false, 
+"time_zone": "Eastern Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 2467791, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/464437503/wp-capitol.png", 
+"verified": true, 
+"profile_text_color": "323232", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000252568100/7a366ac8d0f934b5318e721ba049e9b1_normal.png", 
+"profile_sidebar_fill_color": "DBDBDB", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/YnSd3PG3Ju", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://www.washingtonpost.com/", 
+"display_url": "washingtonpost.com"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 2588216, 
+"profile_sidebar_border_color": "FFFFFF", 
+"id_str": "2467791", 
+"profile_background_color": "333333", 
+"listed_count": 51377, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "D.C. barista wins bronze in Sochi -- for Swiss hockey team http://t.co/WYUVyeb3v6", 
+"in_reply_to_status_id": null, 
+"id": 436544424894791682, 
+"favorite_count": 26, 
+"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/WYUVyeb3v6", 
+"indices": [
+59, 
+81
+], 
+"expanded_url": "http://wapo.st/1oWsQh5", 
+"display_url": "wapo.st/1oWsQh5"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "436544424894791682", 
+"retweet_count": 27, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Thu Feb 20 16:54:36 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": true, 
+"utc_offset": -14400, 
+"statuses_count": 101917, 
+"description": "Tweets about everything from breaking news to bad restaurants. Sometimes global, sometimes local. Led by @TJOrtenzi.", 
+"friends_count": 1015, 
+"location": "Washington, D.C. ", 
+"profile_link_color": "0057EC", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/378800000252568100/7a366ac8d0f934b5318e721ba049e9b1_normal.png", 
+"following": false, 
+"geo_enabled": true, 
+"profile_banner_url": "https://pbs.twimg.com/profile_banners/2467791/1348076832", 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/464437503/wp-capitol.png", 
+"screen_name": "washingtonpost", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 2973, 
+"name": "Washington Post", 
+"notifications": false, 
+"url": "http://t.co/YnSd3PG3Ju", 
+"created_at": "Tue Mar 27 11:19:39 +0000 2007", 
+"contributors_enabled": false, 
+"time_zone": "Eastern Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 14293310, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/735228291/107f1a300a90ee713937234bb3d139c0.jpeg", 
+"verified": true, 
+"profile_text_color": "000000", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png", 
+"profile_sidebar_fill_color": "D9D9D9", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/4aYbUuAeSh", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://www.time.com", 
+"display_url": "time.com"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 5538986, 
+"profile_sidebar_border_color": "000000", 
+"id_str": "14293310", 
+"profile_background_color": "CC0000", 
+"listed_count": 79974, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "These are 5 ways to increase life satisfaction http://t.co/JmzQsXo3YV", 
+"in_reply_to_status_id": null, 
+"id": 445258439397097472, 
+"favorite_count": 66, 
+"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/JmzQsXo3YV", 
+"indices": [
+47, 
+69
+], 
+"expanded_url": "http://ti.me/1fZ40eb", 
+"display_url": "ti.me/1fZ40eb"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445258439397097472", 
+"retweet_count": 40, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 18:00:59 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": true, 
+"utc_offset": -14400, 
+"statuses_count": 79140, 
+"description": "Breaking news and current events from around the globe. Hosted by TIME staff. Tweet questions to our customer service team @TIMEmag_Service.", 
+"friends_count": 745, 
+"location": "", 
+"profile_link_color": "1B4F89", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png", 
+"following": false, 
+"geo_enabled": false, 
+"profile_banner_url": "https://pbs.twimg.com/profile_banners/14293310/1355243462", 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/735228291/107f1a300a90ee713937234bb3d139c0.jpeg", 
+"screen_name": "TIME", 
+"lang": "en", 
+"profile_background_tile": true, 
+"favourites_count": 131, 
+"name": "TIME.com", 
+"notifications": false, 
+"url": "http://t.co/4aYbUuAeSh", 
+"created_at": "Thu Apr 03 13:54:30 +0000 2008", 
+"contributors_enabled": false, 
+"time_zone": "Eastern Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 16664681, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/596769492/sp4uqn6gr7cwmjefat2j.jpeg", 
+"verified": true, 
+"profile_text_color": "615F61", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/1894745045/LAT_normal.jpg", 
+"profile_sidebar_fill_color": "EFEFEF", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/AxxO90n47K", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://latimes.com/", 
+"display_url": "latimes.com"
+}
+]
+}, 
+"description": {
+"urls": [
+{
+"url": "http://t.co/mUpioIrKSN", 
+"indices": [
+48, 
+70
+], 
+"expanded_url": "http://latimes.com", 
+"display_url": "latimes.com"
+}
+]
+}
+}, 
+"followers_count": 798194, 
+"profile_sidebar_border_color": "FFFFFF", 
+"id_str": "16664681", 
+"profile_background_color": "FFFFFF", 
+"listed_count": 20139, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "Some therapists are risking their careers to explore MDMA as PTSD therapy http://t.co/kZfwonz9Hs", 
+"in_reply_to_status_id": null, 
+"id": 445258726761836545, 
+"favorite_count": 15, 
+"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/kZfwonz9Hs", 
+"indices": [
+74, 
+96
+], 
+"expanded_url": "http://lat.ms/1kwMH3F", 
+"display_url": "lat.ms/1kwMH3F"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445258726761836545", 
+"retweet_count": 36, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 18:02:07 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": false, 
+"utc_offset": -25200, 
+"statuses_count": 69266, 
+"description": "News from Los Angeles and the world. Staffed by http://t.co/mUpioIrKSN editors.", 
+"friends_count": 10551, 
+"location": "Los Angeles, CA", 
+"profile_link_color": "009999", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/1894745045/LAT_normal.jpg", 
+"following": false, 
+"geo_enabled": true, 
+"profile_banner_url": "https://pbs.twimg.com/profile_banners/16664681/1354065012", 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/596769492/sp4uqn6gr7cwmjefat2j.jpeg", 
+"screen_name": "latimes", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 1189, 
+"name": "Los Angeles Times", 
+"notifications": false, 
+"url": "http://t.co/AxxO90n47K", 
+"created_at": "Thu Oct 09 11:07:42 +0000 2008", 
+"contributors_enabled": false, 
+"time_zone": "Pacific Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 95431448, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000003877254/c79663e95d0e284ce165db703dffd474.jpeg", 
+"verified": true, 
+"profile_text_color": "000000", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357463919/bGlobe_normal.jpg", 
+"profile_sidebar_fill_color": "FFFFFF", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/g2XphqdJIo", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://bostonglobe.com", 
+"display_url": "bostonglobe.com"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 275271, 
+"profile_sidebar_border_color": "FFFFFF", 
+"id_str": "95431448", 
+"profile_background_color": "EDECE9", 
+"listed_count": 5489, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "N.H. residents want to know more about Scott Brown http://t.co/UAihOZ6ZF6", 
+"in_reply_to_status_id": null, 
+"id": 445261297543036928, 
+"favorite_count": 0, 
+"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/UAihOZ6ZF6", 
+"indices": [
+51, 
+73
+], 
+"expanded_url": "http://b.globe.com/1m8HaTU", 
+"display_url": "b.globe.com/1m8HaTU"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445261297543036928", 
+"retweet_count": 3, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 18:12:20 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": false, 
+"utc_offset": -14400, 
+"statuses_count": 45951, 
+"description": "Boston and New England's leading news source, in print and online.  For Customer Service, tweet us or email circulationservices@globe.com", 
+"friends_count": 1014, 
+"location": "Boston, MA", 
+"profile_link_color": "050505", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/1357463919/bGlobe_normal.jpg", 
+"following": false, 
+"geo_enabled": true, 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000003877254/c79663e95d0e284ce165db703dffd474.jpeg", 
+"screen_name": "BostonGlobe", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 99, 
+"name": "The Boston Globe", 
+"notifications": false, 
+"url": "http://t.co/g2XphqdJIo", 
+"created_at": "Tue Dec 08 14:33:38 +0000 2009", 
+"contributors_enabled": false, 
+"time_zone": "Eastern Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 807095, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+"verified": true, 
+"profile_text_color": "333333", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/2044921128/finals_normal.png", 
+"profile_sidebar_fill_color": "EFEFEF", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/ahvuWqicF9", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://www.nytimes.com/", 
+"display_url": "nytimes.com"
+}
+]
+}, 
+"description": {
+"urls": [
+{
+"url": "http://t.co/u15NNuLyJH", 
+"indices": [
+74, 
+96
+], 
+"expanded_url": "http://NYTimes.com", 
+"display_url": "NYTimes.com"
+}
+]
+}
+}, 
+"followers_count": 11281059, 
+"profile_sidebar_border_color": "FFFFFF", 
+"id_str": "807095", 
+"profile_background_color": "131516", 
+"listed_count": 140218, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "Kerry Presses Russia on \u2018Provocations\u2019 in Ukraine http://t.co/GxkeFrX92C", 
+"in_reply_to_status_id": null, 
+"id": 445257862621982720, 
+"favorite_count": 15, 
+"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/GxkeFrX92C", 
+"indices": [
+50, 
+72
+], 
+"expanded_url": "http://nyti.ms/1e8erKv", 
+"display_url": "nyti.ms/1e8erKv"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445257862621982720", 
+"retweet_count": 43, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 17:58:41 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": true, 
+"utc_offset": -14400, 
+"statuses_count": 129629, 
+"description": "Where the conversation begins. Follow for breaking news, special reports, http://t.co/u15NNuLyJH homepage links and RTs of our journalists.", 
+"friends_count": 911, 
+"location": "New York City", 
+"profile_link_color": "607696", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/2044921128/finals_normal.png", 
+"following": false, 
+"geo_enabled": false, 
+"profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1355346050", 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+"screen_name": "nytimes", 
+"lang": "en", 
+"profile_background_tile": true, 
+"favourites_count": 18, 
+"name": "The New York Times", 
+"notifications": false, 
+"url": "http://t.co/ahvuWqicF9", 
+"created_at": "Fri Mar 02 20:41:42 +0000 2007", 
+"contributors_enabled": false, 
+"time_zone": "Eastern Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 20402945, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000001282625/cb244200a71930168f181caf04dbd4c2.png", 
+"verified": true, 
+"profile_text_color": "333333", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/425685904808607744/rimi44dt_normal.jpeg", 
+"profile_sidebar_fill_color": "EAEBEA", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/YKho1OnIvS", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://cnbc.com", 
+"display_url": "cnbc.com"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 1417160, 
+"profile_sidebar_border_color": "FFFFFF", 
+"id_str": "20402945", 
+"profile_background_color": "0D181F", 
+"listed_count": 17027, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "Warren Buffett has advice for those thinking about investing in bitcoin: http://t.co/ckCgVZgN0v", 
+"in_reply_to_status_id": null, 
+"id": 445258526508994560, 
+"favorite_count": 18, 
+"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/ckCgVZgN0v", 
+"indices": [
+73, 
+95
+], 
+"expanded_url": "http://cnb.cx/1gpRFyt", 
+"display_url": "cnb.cx/1gpRFyt"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445258526508994560", 
+"retweet_count": 24, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 18:01:19 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": false, 
+"utc_offset": -14400, 
+"statuses_count": 32624, 
+"description": "First in Business Worldwide", 
+"friends_count": 837, 
+"location": "", 
+"profile_link_color": "2D648A", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/425685904808607744/rimi44dt_normal.jpeg", 
+"following": false, 
+"geo_enabled": true, 
+"profile_banner_url": "https://pbs.twimg.com/profile_banners/20402945/1371566404", 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000001282625/cb244200a71930168f181caf04dbd4c2.png", 
+"screen_name": "CNBC", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 1368, 
+"name": "CNBC", 
+"notifications": false, 
+"url": "http://t.co/YKho1OnIvS", 
+"created_at": "Mon Feb 09 00:03:41 +0000 2009", 
+"contributors_enabled": false, 
+"time_zone": "Eastern Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 774393817, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000072133368/3173be73e7ebffed86af7e1d3d7e28cd.jpeg", 
+"verified": false, 
+"profile_text_color": "333333", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/2710301592/7722970139b56958b45a9bc803f06cbf_normal.png", 
+"profile_sidebar_fill_color": "DDEEF6", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/bHfXMJJHoa", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://www.ora.tv/newsbreaker", 
+"display_url": "ora.tv/newsbreaker"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 76540, 
+"profile_sidebar_border_color": "000000", 
+"id_str": "774393817", 
+"profile_background_color": "0D0E17", 
+"listed_count": 2164, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "Seinfeld actor @iWayneKnight is alive and well after rumors of his death started trending on Twitter Sunday morning http://t.co/6XmIfSuWVO", 
+"in_reply_to_status_id": null, 
+"id": 445247045016625153, 
+"favorite_count": 6, 
+"source": "web", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [
+{
+"id": 800995518, 
+"indices": [
+15, 
+28
+], 
+"id_str": "800995518", 
+"screen_name": "iWayneKnight", 
+"name": "Wayne Knight"
+}
+], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/6XmIfSuWVO", 
+"indices": [
+116, 
+138
+], 
+"expanded_url": "http://bit.ly/1d4xmrr", 
+"display_url": "bit.ly/1d4xmrr"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445247045016625153", 
+"retweet_count": 47, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 17:15:42 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": false, 
+"utc_offset": -25200, 
+"statuses_count": 45509, 
+"description": "@OraTV's @NewsBreaker team delivers #breakingnews and trending buzz in 45 seconds. Tips: newsbreaker@ora.tv", 
+"friends_count": 4834, 
+"location": "", 
+"profile_link_color": "A51212", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/2710301592/7722970139b56958b45a9bc803f06cbf_normal.png", 
+"following": false, 
+"geo_enabled": false, 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000072133368/3173be73e7ebffed86af7e1d3d7e28cd.jpeg", 
+"screen_name": "NewsBreaker", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 1885, 
+"name": "NewsBreaker", 
+"notifications": false, 
+"url": "http://t.co/bHfXMJJHoa", 
+"created_at": "Wed Aug 22 20:02:43 +0000 2012", 
+"contributors_enabled": false, 
+"time_zone": "Arizona", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 14173315, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181859512/-65VAaUv.jpeg", 
+"verified": true, 
+"profile_text_color": "000000", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/430956223467229184/07_Zzb3u_normal.png", 
+"profile_sidebar_fill_color": "FFFFFF", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/kdrUxkkyai", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://NBCNews.com", 
+"display_url": "NBCNews.com"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 1383344, 
+"profile_sidebar_border_color": "FFFFFF", 
+"id_str": "14173315", 
+"profile_background_color": "062131", 
+"listed_count": 20998, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "What's Vladimir Putin's next move? It's anyone's guess, experts say http://t.co/XR32ijN4Ee", 
+"in_reply_to_status_id": null, 
+"id": 445254625177108480, 
+"favorite_count": 6, 
+"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/XR32ijN4Ee", 
+"indices": [
+68, 
+90
+], 
+"expanded_url": "http://nbcnews.to/1iROxic", 
+"display_url": "nbcnews.to/1iROxic"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445254625177108480", 
+"retweet_count": 33, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 17:45:49 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": false, 
+"utc_offset": -14400, 
+"statuses_count": 32623, 
+"description": "A leading source of global news and information for more than 75 years. Have a news tip or question? Ask @Rozzy, @Dubois, @JBaiata or @cdellaverson.", 
+"friends_count": 2885, 
+"location": "New York, NY", 
+"profile_link_color": "5172A0", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/430956223467229184/07_Zzb3u_normal.png", 
+"following": false, 
+"geo_enabled": false, 
+"profile_banner_url": "https://pbs.twimg.com/profile_banners/14173315/1393448399", 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181859512/-65VAaUv.jpeg", 
+"screen_name": "NBCNews", 
+"lang": "en", 
+"profile_background_tile": true, 
+"favourites_count": 394, 
+"name": "NBC News", 
+"notifications": false, 
+"url": "http://t.co/kdrUxkkyai", 
+"created_at": "Tue Mar 18 23:19:17 +0000 2008", 
+"contributors_enabled": false, 
+"time_zone": "Eastern Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 28785486, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/441965491024719872/pAv-lzCZ.jpeg", 
+"verified": true, 
+"profile_text_color": "333333", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/3732519004/d336acac6e4bb0696be48e5a4306cd1c_normal.png", 
+"profile_sidebar_fill_color": "DDEEF6", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/v7GWW7yYST", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://ABCNews.com", 
+"display_url": "ABCNews.com"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 3066075, 
+"profile_sidebar_border_color": "FFFFFF", 
+"id_str": "28785486", 
+"profile_background_color": "6E8EB5", 
+"listed_count": 33193, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "Ukraine's Defense Ministry says a truce has been reached with Russia over Crimea: http://t.co/dTUzQUtkId", 
+"in_reply_to_status_id": null, 
+"id": 445259324714000384, 
+"favorite_count": 21, 
+"source": "web", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/dTUzQUtkId", 
+"indices": [
+82, 
+104
+], 
+"expanded_url": "http://abcn.ws/1lFLE1t", 
+"display_url": "abcn.ws/1lFLE1t"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445259324714000384", 
+"retweet_count": 67, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 18:04:30 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": true, 
+"utc_offset": -14400, 
+"statuses_count": 84809, 
+"description": "See the whole picture with @ABC News. Tweets from the Social Desk: @Springer @MicahGrimes", 
+"friends_count": 869, 
+"location": "New York, NY", 
+"profile_link_color": "336699", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/3732519004/d336acac6e4bb0696be48e5a4306cd1c_normal.png", 
+"following": false, 
+"geo_enabled": false, 
+"profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1375304987", 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/441965491024719872/pAv-lzCZ.jpeg", 
+"screen_name": "ABC", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 487, 
+"name": "ABC News", 
+"notifications": false, 
+"url": "http://t.co/v7GWW7yYST", 
+"created_at": "Sat Apr 04 12:40:32 +0000 2009", 
+"contributors_enabled": false, 
+"time_zone": "Eastern Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 8839632, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/462444957/NN_BG.jpg", 
+"verified": true, 
+"profile_text_color": "000000", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/3292385713/a9006684df6f93c5b6a03c2d531af62d_normal.jpeg", 
+"profile_sidebar_fill_color": "EEEEEE", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/I3oYIGKfZN", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://nbcnews.com", 
+"display_url": "nbcnews.com"
+}
+]
+}, 
+"description": {
+"urls": [
+{
+"url": "http://t.co/e63UsAxK7n", 
+"indices": [
+116, 
+138
+], 
+"expanded_url": "http://facebook.com/nbcnightlynews", 
+"display_url": "facebook.com/nbcnightlynews"
+}
+]
+}
+}, 
+"followers_count": 315417, 
+"profile_sidebar_border_color": "DADADA", 
+"id_str": "8839632", 
+"profile_background_color": "000000", 
+"listed_count": 7068, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "White House: \u201cWe reject the \u2018referendum\u2019 that took place today in the Crimean region of Ukraine.\u201d Full statement: http://t.co/HTL9QRFFLN", 
+"in_reply_to_status_id": null, 
+"id": 445260838006689792, 
+"favorite_count": 3, 
+"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/HTL9QRFFLN", 
+"indices": [
+114, 
+136
+], 
+"expanded_url": "http://nbcnews.to/1dbbhBU", 
+"display_url": "nbcnews.to/1dbbhBU"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445260838006689792", 
+"retweet_count": 13, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 18:10:30 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": false, 
+"utc_offset": -14400, 
+"statuses_count": 32885, 
+"description": "#NBCNightlyNews with @BWilliams: America's #1 evening news broadcast. Tweets by @DanLinden & @BraddJaffy. Facebook: http://t.co/e63UsAxK7n", 
+"friends_count": 430, 
+"location": "New York", 
+"profile_link_color": "124578", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/3292385713/a9006684df6f93c5b6a03c2d531af62d_normal.jpeg", 
+"following": false, 
+"geo_enabled": false, 
+"profile_banner_url": "https://pbs.twimg.com/profile_banners/8839632/1348593186", 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/462444957/NN_BG.jpg", 
+"screen_name": "nbcnightlynews", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 424, 
+"name": "NBC Nightly News", 
+"notifications": false, 
+"url": "http://t.co/I3oYIGKfZN", 
+"created_at": "Wed Sep 12 19:19:22 +0000 2007", 
+"contributors_enabled": false, 
+"time_zone": "Eastern Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": false, 
+"default_profile_image": false, 
+"id": 20562637, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450331951/WDF4918_TwitterBG.jpg", 
+"verified": true, 
+"profile_text_color": "333333", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/715773334/BI-icon-twitter2_normal.png", 
+"profile_sidebar_fill_color": "EFEFEF", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/pSnoEesoaV", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://businessinsider.com/", 
+"display_url": "businessinsider.com"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 487374, 
+"profile_sidebar_border_color": "EEEEEE", 
+"id_str": "20562637", 
+"profile_background_color": "131516", 
+"listed_count": 13208, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "Mark Cuban Reveals What Happens Behind The Scenes Of 'Shark Tank' http://t.co/DOEyQMRgK9 by @ajs", 
+"in_reply_to_status_id": null, 
+"id": 445260796688621569, 
+"favorite_count": 10, 
+"source": "<a href=\"http://www.businessinsider.com\" rel=\"nofollow\">Business Insider</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [
+{
+"id": 24941044, 
+"indices": [
+92, 
+96
+], 
+"id_str": "24941044", 
+"screen_name": "ajs", 
+"name": "Alyson Shontell"
+}
+], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/DOEyQMRgK9", 
+"indices": [
+66, 
+88
+], 
+"expanded_url": "http://read.bi/1lGwCbw", 
+"display_url": "read.bi/1lGwCbw"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445260796688621569", 
+"retweet_count": 7, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 18:10:21 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": false, 
+"utc_offset": -14400, 
+"statuses_count": 145035, 
+"description": "The latest business news and analysis.", 
+"friends_count": 90, 
+"location": "New York, NY", 
+"profile_link_color": "009999", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/715773334/BI-icon-twitter2_normal.png", 
+"following": false, 
+"geo_enabled": false, 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450331951/WDF4918_TwitterBG.jpg", 
+"screen_name": "businessinsider", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 73, 
+"name": "Business Insider", 
+"notifications": false, 
+"url": "http://t.co/pSnoEesoaV", 
+"created_at": "Wed Feb 11 01:18:18 +0000 2009", 
+"contributors_enabled": false, 
+"time_zone": "Eastern Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": false, 
+"default_profile_image": false, 
+"id": 15164565, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/578119077/wz4rqy2glu2jnibxu6hc.jpeg", 
+"verified": true, 
+"profile_text_color": "000000", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/2151387107/slateLogo-S-facebookSquarex200_normal.jpg", 
+"profile_sidebar_fill_color": "E0FF92", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/0SmrOUgNmZ", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://www.slate.com", 
+"display_url": "slate.com"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 787822, 
+"profile_sidebar_border_color": "87BC44", 
+"id_str": "15164565", 
+"profile_background_color": "670033", 
+"listed_count": 23260, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "How the Malaysia Airlines plane could have landed in the Stone Age: http://t.co/Sh2doQFjou", 
+"in_reply_to_status_id": null, 
+"id": 445261458390388737, 
+"favorite_count": 4, 
+"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/Sh2doQFjou", 
+"indices": [
+68, 
+90
+], 
+"expanded_url": "http://slate.me/1qIGh5n", 
+"display_url": "slate.me/1qIGh5n"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445261458390388737", 
+"retweet_count": 3, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 18:12:58 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": true, 
+"utc_offset": -14400, 
+"statuses_count": 77246, 
+"description": "Politics, culture, technology, business, news, and commentary. Procrastinate better.", 
+"friends_count": 465, 
+"location": "", 
+"profile_link_color": "0084B4", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/2151387107/slateLogo-S-facebookSquarex200_normal.jpg", 
+"following": false, 
+"geo_enabled": false, 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/578119077/wz4rqy2glu2jnibxu6hc.jpeg", 
+"screen_name": "Slate", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 11, 
+"name": "Slate", 
+"notifications": false, 
+"url": "http://t.co/0SmrOUgNmZ", 
+"created_at": "Thu Jun 19 01:08:29 +0000 2008", 
+"contributors_enabled": false, 
+"time_zone": "Eastern Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": false, 
+"default_profile_image": false, 
+"id": 8936082, 
+"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+"verified": true, 
+"profile_text_color": "000000", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/777177440/gawker_normal.jpg", 
+"profile_sidebar_fill_color": "F3F3F3", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/JeoDIURVgm", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://gawker.com", 
+"display_url": "gawker.com"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 390119, 
+"profile_sidebar_border_color": "888888", 
+"id_str": "8936082", 
+"profile_background_color": "FFFFFF", 
+"listed_count": 11134, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "Demi Lovato rails against Lady Gaga for glamorizing eating disorders. http://t.co/2EhLRGL8Ej", 
+"in_reply_to_status_id": null, 
+"id": 445247662678605824, 
+"favorite_count": 21, 
+"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/2EhLRGL8Ej", 
+"indices": [
+70, 
+92
+], 
+"expanded_url": "http://gaw.kr/p7hLm4a", 
+"display_url": "gaw.kr/p7hLm4a"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445247662678605824", 
+"retweet_count": 20, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 17:18:09 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": false, 
+"utc_offset": -14400, 
+"statuses_count": 33387, 
+"description": "Today's gossip is tomorrow's news", 
+"friends_count": 672, 
+"location": "", 
+"profile_link_color": "6E0000", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/777177440/gawker_normal.jpg", 
+"following": false, 
+"geo_enabled": false, 
+"profile_banner_url": "https://pbs.twimg.com/profile_banners/8936082/1355760637", 
+"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+"screen_name": "Gawker", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 513, 
+"name": "Gawker", 
+"notifications": false, 
+"url": "http://t.co/JeoDIURVgm", 
+"created_at": "Mon Sep 17 18:47:34 +0000 2007", 
+"contributors_enabled": false, 
+"time_zone": "Eastern Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 9300262, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/796212188/bbdc5e3f7842b5b33f418ac5bc9685ee.jpeg", 
+"verified": true, 
+"profile_text_color": "333333", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000671090749/bd9d151b66dddabbb58ddc92b81cecb1_normal.jpeg", 
+"profile_sidebar_fill_color": "DDEEF6", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/ojFgli1EbE", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://www.politico.com", 
+"display_url": "politico.com"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 699766, 
+"profile_sidebar_border_color": "FFFFFF", 
+"id_str": "9300262", 
+"profile_background_color": "E02424", 
+"listed_count": 21792, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "RT @smahaskey: Rep. Lynch up front as St. Pat's Day parade gets underway in Boston. http://t.co/YlMrET8XVk", 
+"in_reply_to_status_id": null, 
+"id": 445258867824689153, 
+"favorite_count": 0, 
+"source": "web", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [
+{
+"id": 56680792, 
+"indices": [
+3, 
+13
+], 
+"id_str": "56680792", 
+"screen_name": "smahaskey", 
+"name": "M. Scott Mahaskey"
+}
+], 
+"hashtags": [], 
+"urls": [], 
+"media": [
+{
+"expanded_url": "http://twitter.com/smahaskey/status/445251689961230336/photo/1", 
+"display_url": "pic.twitter.com/YlMrET8XVk", 
+"url": "http://t.co/YlMrET8XVk", 
+"media_url_https": "https://pbs.twimg.com/media/Bi3aDYOIcAA6F-K.jpg", 
+"id_str": "445251689755734016", 
+"sizes": {
+"large": {
+"h": 682, 
+"resize": "fit", 
+"w": 1024
+}, 
+"small": {
+"h": 226, 
+"resize": "fit", 
+"w": 340
+}, 
+"medium": {
+"h": 399, 
+"resize": "fit", 
+"w": 599
+}, 
+"thumb": {
+"h": 150, 
+"resize": "crop", 
+"w": 150
+}
+}, 
+"indices": [
+84, 
+106
+], 
+"type": "photo", 
+"id": 445251689755734016, 
+"media_url": "http://pbs.twimg.com/media/Bi3aDYOIcAA6F-K.jpg"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445258867824689153", 
+"retweet_count": 8, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"retweeted_status": {
+"contributors": null, 
+"truncated": false, 
+"text": "Rep. Lynch up front as St. Pat's Day parade gets underway in Boston. http://t.co/YlMrET8XVk", 
+"in_reply_to_status_id": null, 
+"id": 445251689961230336, 
+"favorite_count": 5, 
+"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+"retweeted": false, 
+"coordinates": {
+"type": "Point", 
+"coordinates": [
+-71.0467828, 
+42.33610008
+]
+}, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [], 
+"urls": [], 
+"media": [
+{
+"expanded_url": "http://twitter.com/smahaskey/status/445251689961230336/photo/1", 
+"display_url": "pic.twitter.com/YlMrET8XVk", 
+"url": "http://t.co/YlMrET8XVk", 
+"media_url_https": "https://pbs.twimg.com/media/Bi3aDYOIcAA6F-K.jpg", 
+"id_str": "445251689755734016", 
+"sizes": {
+"large": {
+"h": 682, 
+"resize": "fit", 
+"w": 1024
+}, 
+"small": {
+"h": 226, 
+"resize": "fit", 
+"w": 340
+}, 
+"medium": {
+"h": 399, 
+"resize": "fit", 
+"w": 599
+}, 
+"thumb": {
+"h": 150, 
+"resize": "crop", 
+"w": 150
+}
+}, 
+"indices": [
+69, 
+91
+], 
+"type": "photo", 
+"id": 445251689755734016, 
+"media_url": "http://pbs.twimg.com/media/Bi3aDYOIcAA6F-K.jpg"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445251689961230336", 
+"retweet_count": 8, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": {
+"type": "Point", 
+"coordinates": [
+42.33610008, 
+-71.0467828
+]
+}, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 17:34:09 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": {
+"full_name": "Boston, MA", 
+"url": "https://api.twitter.com/1.1/geo/id/67b98f17fdcf20be.json", 
+"country": "United States", 
+"place_type": "city", 
+"bounding_box": {
+"type": "Polygon", 
+"coordinates": [
+[
+[
+-71.191113, 
+42.22788
+], 
+[
+-70.749455, 
+42.22788
+], 
+[
+-70.749455, 
+42.40082
+], 
+[
+-71.191113, 
+42.40082
+]
+]
+]
+}, 
+"contained_within": [], 
+"country_code": "US", 
+"attributes": {}, 
+"id": "67b98f17fdcf20be", 
+"name": "Boston"
+}
+}, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 18:02:41 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": false, 
+"utc_offset": -14400, 
+"statuses_count": 70099, 
+"description": "Politics, Political News", 
+"friends_count": 888, 
+"location": "Washington, D.C.", 
+"profile_link_color": "0084B4", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/378800000671090749/bd9d151b66dddabbb58ddc92b81cecb1_normal.jpeg", 
+"following": false, 
+"geo_enabled": false, 
+"profile_banner_url": "https://pbs.twimg.com/profile_banners/9300262/1361414295", 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/796212188/bbdc5e3f7842b5b33f418ac5bc9685ee.jpeg", 
+"screen_name": "politico", 
+"lang": "en", 
+"profile_background_tile": true, 
+"favourites_count": 3, 
+"name": "POLITICO", 
+"notifications": false, 
+"url": "http://t.co/ojFgli1EbE", 
+"created_at": "Mon Oct 08 00:29:38 +0000 2007", 
+"contributors_enabled": false, 
+"time_zone": "Eastern Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 1367531, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/414488415/xyz123abc.jpg", 
+"verified": true, 
+"profile_text_color": "000000", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/1296339574/foxnews-avatar_normal.png", 
+"profile_sidebar_fill_color": "F4F4F4", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/ZYG58XZtAC", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://www.foxnews.com", 
+"display_url": "foxnews.com"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 3744986, 
+"profile_sidebar_border_color": "FFFFFF", 
+"id_str": "1367531", 
+"profile_background_color": "0E2331", 
+"listed_count": 40707, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "RT @foxnewsvideo: Was missing Malaysia Airlines Flight 370 hijacked? http://t.co/AAFT7kepJm", 
+"in_reply_to_status_id": null, 
+"id": 445260919128723456, 
+"favorite_count": 0, 
+"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [
+{
+"id": 204386512, 
+"indices": [
+3, 
+16
+], 
+"id_str": "204386512", 
+"screen_name": "foxnewsvideo", 
+"name": "Fox News Video"
+}
+], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/AAFT7kepJm", 
+"indices": [
+69, 
+91
+], 
+"expanded_url": "http://fxn.ws/1p0SpuN", 
+"display_url": "fxn.ws/1p0SpuN"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445260919128723456", 
+"retweet_count": 24, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"retweeted_status": {
+"contributors": null, 
+"truncated": false, 
+"text": "Was missing Malaysia Airlines Flight 370 hijacked? http://t.co/AAFT7kepJm", 
+"in_reply_to_status_id": null, 
+"id": 445260482950479872, 
+"favorite_count": 13, 
+"source": "web", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/AAFT7kepJm", 
+"indices": [
+51, 
+73
+], 
+"expanded_url": "http://fxn.ws/1p0SpuN", 
+"display_url": "fxn.ws/1p0SpuN"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445260482950479872", 
+"retweet_count": 24, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 18:09:06 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 18:10:50 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": true, 
+"utc_offset": -14400, 
+"statuses_count": 171734, 
+"description": "America\u2019s Strongest Primetime Lineup Anywhere! Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos.", 
+"friends_count": 378, 
+"location": "U.S.A.", 
+"profile_link_color": "183A52", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/1296339574/foxnews-avatar_normal.png", 
+"following": false, 
+"geo_enabled": false, 
+"profile_banner_url": "https://pbs.twimg.com/profile_banners/1367531/1384268052", 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/414488415/xyz123abc.jpg", 
+"screen_name": "FoxNews", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 9, 
+"name": "Fox News", 
+"notifications": false, 
+"url": "http://t.co/ZYG58XZtAC", 
+"created_at": "Sat Mar 17 19:01:26 +0000 2007", 
+"contributors_enabled": false, 
+"time_zone": "Eastern Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 34713362, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/341317226/Bloomberg_twback_orng.jpg", 
+"verified": true, 
+"profile_text_color": "666666", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/1573194528/News_tw_normal.jpg", 
+"profile_sidebar_fill_color": "EEEEEE", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/kD3ptGkjfH", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://www.bloomberg.com", 
+"display_url": "bloomberg.com"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 1380994, 
+"profile_sidebar_border_color": "DADADA", 
+"id_str": "34713362", 
+"profile_background_color": "101112", 
+"listed_count": 25261, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "Clintons\u2019 1993 health-care strategy show Obama pitfalls: http://t.co/l50hZznvAf", 
+"in_reply_to_status_id": null, 
+"id": 445258810777948160, 
+"favorite_count": 5, 
+"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/l50hZznvAf", 
+"indices": [
+57, 
+79
+], 
+"expanded_url": "http://bloom.bg/1krMw9T", 
+"display_url": "bloom.bg/1krMw9T"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445258810777948160", 
+"retweet_count": 11, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 18:02:27 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": false, 
+"utc_offset": -14400, 
+"statuses_count": 65235, 
+"description": "Bloomberg News is the first word in business and finance.", 
+"friends_count": 546, 
+"location": "New York and the World", 
+"profile_link_color": "FF8001", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/1573194528/News_tw_normal.jpg", 
+"following": false, 
+"geo_enabled": false, 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/341317226/Bloomberg_twback_orng.jpg", 
+"screen_name": "BloombergNews", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 121, 
+"name": "Bloomberg News", 
+"notifications": false, 
+"url": "http://t.co/kD3ptGkjfH", 
+"created_at": "Thu Apr 23 20:05:17 +0000 2009", 
+"contributors_enabled": false, 
+"time_zone": "Eastern Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": false, 
+"default_profile_image": false, 
+"id": 14717197, 
+"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+"verified": true, 
+"profile_text_color": "333333", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/394818562/tpmmedia-twitter-avatar_normal.png", 
+"profile_sidebar_fill_color": "D6D6D6", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/ZyHPG61Yqv", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://www.talkingpointsmemo.com/", 
+"display_url": "talkingpointsmemo.com"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 152840, 
+"profile_sidebar_border_color": "FFFFFF", 
+"id_str": "14717197", 
+"profile_background_color": "CCC7AA", 
+"listed_count": 7222, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "Malaysia Airlines pilot's last words did not indicate anything was wrong: http://t.co/6YIj1ApfQE", 
+"in_reply_to_status_id": null, 
+"id": 445255480127283200, 
+"favorite_count": 0, 
+"source": "web", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/6YIj1ApfQE", 
+"indices": [
+74, 
+96
+], 
+"expanded_url": "http://bit.ly/1ibw8JE", 
+"display_url": "bit.ly/1ibw8JE"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445255480127283200", 
+"retweet_count": 8, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 17:49:13 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": false, 
+"utc_offset": -18000, 
+"statuses_count": 50802, 
+"description": "Breaking news and analysis from the TPM team.", 
+"friends_count": 504, 
+"location": "NY & DC", 
+"profile_link_color": "003366", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/394818562/tpmmedia-twitter-avatar_normal.png", 
+"following": false, 
+"geo_enabled": false, 
+"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+"screen_name": "TPM", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 4, 
+"name": "Talking Points Memo", 
+"notifications": false, 
+"url": "http://t.co/ZyHPG61Yqv", 
+"created_at": "Fri May 09 19:46:43 +0000 2008", 
+"contributors_enabled": false, 
+"time_zone": "Quito", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 18424289, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433511991982821376/ZwClzpaF.jpeg", 
+"verified": true, 
+"profile_text_color": "333333", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/438703691244109825/qOQqOOHj_normal.jpeg", 
+"profile_sidebar_fill_color": "E4E2E2", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/hGzrK34JOa", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://aljazeera.com", 
+"display_url": "aljazeera.com"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 567035, 
+"profile_sidebar_border_color": "FFFFFF", 
+"id_str": "18424289", 
+"profile_background_color": "FFFFFF", 
+"listed_count": 12552, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "Leading lawyer in #Cameroon says \"weapons and police\" have been used against people in same-sex relationships. http://t.co/1n5Ovy3w6a", 
+"in_reply_to_status_id": null, 
+"id": 445251232018759680, 
+"favorite_count": 6, 
+"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [
+{
+"indices": [
+18, 
+27
+], 
+"text": "Cameroon"
+}
+], 
+"urls": [
+{
+"url": "http://t.co/1n5Ovy3w6a", 
+"indices": [
+111, 
+133
+], 
+"expanded_url": "http://aje.me/Ou2uot", 
+"display_url": "aje.me/Ou2uot"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445251232018759680", 
+"retweet_count": 19, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 17:32:20 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": false, 
+"utc_offset": 0, 
+"statuses_count": 44592, 
+"description": "Breaking news alerts and updates from Al Jazeera English, a 24-hour news and current affairs channel. For news, features and analysis follow @AJEnglish.", 
+"friends_count": 320, 
+"location": "Doha, Qatar", 
+"profile_link_color": "CB922A", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/438703691244109825/qOQqOOHj_normal.jpeg", 
+"following": false, 
+"geo_enabled": false, 
+"profile_banner_url": "https://pbs.twimg.com/profile_banners/18424289/1392191949", 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433511991982821376/ZwClzpaF.jpeg", 
+"screen_name": "AJELive", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 13, 
+"name": "AJELive", 
+"notifications": false, 
+"url": "http://t.co/hGzrK34JOa", 
+"created_at": "Sun Dec 28 08:02:32 +0000 2008", 
+"contributors_enabled": false, 
+"time_zone": "London", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}{
+"follow_request_sent": false, 
+"profile_use_background_image": true, 
+"default_profile_image": false, 
+"id": 1599050960, 
+"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000055873037/7f4f86e02eaa0b68fc445bbd04d8492d.jpeg", 
+"verified": false, 
+"profile_text_color": "333333", 
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000329986353/9dd18ca43a76f6eb1d8bbd53929ea63a_normal.jpeg", 
+"profile_sidebar_fill_color": "DDEEF6", 
+"entities": {
+"url": {
+"urls": [
+{
+"url": "http://t.co/P7CmLjkrto", 
+"indices": [
+0, 
+22
+], 
+"expanded_url": "http://aljazeera.com/america", 
+"display_url": "aljazeera.com/america"
+}
+]
+}, 
+"description": {
+"urls": []
+}
+}, 
+"followers_count": 14363, 
+"profile_sidebar_border_color": "FFFFFF", 
+"id_str": "1599050960", 
+"profile_background_color": "C0DEED", 
+"listed_count": 553, 
+"status": {
+"contributors": null, 
+"truncated": false, 
+"text": "US rejects Crimea referendum vote held under \"threats of violence and intimidation\" by Russian military. http://t.co/VYLISPaC7f", 
+"in_reply_to_status_id": null, 
+"id": 445262022221893632, 
+"favorite_count": 0, 
+"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+"retweeted": false, 
+"coordinates": null, 
+"entities": {
+"symbols": [], 
+"user_mentions": [], 
+"hashtags": [], 
+"urls": [
+{
+"url": "http://t.co/VYLISPaC7f", 
+"indices": [
+105, 
+127
+], 
+"expanded_url": "http://alj.am/NkCGKI", 
+"display_url": "alj.am/NkCGKI"
+}
+]
+}, 
+"in_reply_to_screen_name": null, 
+"id_str": "445262022221893632", 
+"retweet_count": 5, 
+"in_reply_to_user_id": null, 
+"favorited": false, 
+"geo": null, 
+"in_reply_to_user_id_str": null, 
+"possibly_sensitive": false, 
+"lang": "en", 
+"created_at": "Sun Mar 16 18:15:13 +0000 2014", 
+"in_reply_to_status_id_str": null, 
+"place": null
+}, 
+"is_translation_enabled": false, 
+"utc_offset": -14400, 
+"statuses_count": 9626, 
+"description": "Breaking news alerts and updates from Al Jazeera America, a 24 hour news and current affairs channel. For news, features and analysis follow @AJAM", 
+"friends_count": 15, 
+"location": "US", 
+"profile_link_color": "0084B4", 
+"profile_image_url": "http://pbs.twimg.com/profile_images/378800000329986353/9dd18ca43a76f6eb1d8bbd53929ea63a_normal.jpeg", 
+"following": false, 
+"geo_enabled": false, 
+"profile_banner_url": "https://pbs.twimg.com/profile_banners/1599050960/1377021827", 
+"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000055873037/7f4f86e02eaa0b68fc445bbd04d8492d.jpeg", 
+"screen_name": "ajamlive", 
+"lang": "en", 
+"profile_background_tile": false, 
+"favourites_count": 0, 
+"name": "AJAM Live", 
+"notifications": false, 
+"url": "http://t.co/P7CmLjkrto", 
+"created_at": "Tue Jul 16 18:54:41 +0000 2013", 
+"contributors_enabled": false, 
+"time_zone": "Eastern Time (US & Canada)", 
+"protected": false, 
+"default_profile": false, 
+"is_translator": false
+}

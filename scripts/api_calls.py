@@ -30,6 +30,7 @@ def twitter_api():
 		print data['id'], 'done'
 		time.sleep(3)
 
+
 # Twittercounter API
 def twittercounter_api():
 	twitter_ids = open('../data/twitter_ids.txt', 'rU')

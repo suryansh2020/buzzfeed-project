@@ -1,4 +1,4 @@
-{
+[{
 "average_growth": "7975", 
 "date_updated": "2014-03-16", 
 "tomorrow_2w": "15987836", 
@@ -40,7 +40,7 @@
 }, 
 "follow_days": "1998", 
 "growth_since_2w": 235325
-}{
+},{
 "average_growth": "4564", 
 "date_updated": "2014-03-16", 
 "tomorrow_2w": "9137238", 
@@ -82,7 +82,7 @@
 }, 
 "follow_days": "1999", 
 "growth_since_2w": 177126
-}{
+},{
 "username": "BreakingNews", 
 "started_followers": 31, 
 "average_growth": "3284", 
@@ -119,7 +119,7 @@
 "follow_days": "1998", 
 "tomorrow": "6563913", 
 "description": "Download our new iOS and Android apps to control the breaking news you want to see."
-}{
+},{
 "username": "MashableLive", 
 "started_followers": 1266, 
 "average_growth": "19", 
@@ -150,7 +150,7 @@
 "follow_days": "48", 
 "tomorrow": "2183", 
 "description": "Real-time curation during breaking news events by @mashable reporters and editors."
-}{
+},{
 "username": "WSJbreakingnews", 
 "started_followers": 7276, 
 "average_growth": "124", 
@@ -187,7 +187,7 @@
 "follow_days": "1619", 
 "tomorrow": "208690", 
 "description": "Breaking news from The Wall Street Journal."
-}{
+},{
 "average_growth": "1536", 
 "date_updated": "2014-03-16", 
 "tomorrow_2w": "3073351", 
@@ -229,7 +229,7 @@
 }, 
 "follow_days": "1998", 
 "growth_since_2w": 56624
-}{
+},{
 "username": "Reuters", 
 "started_followers": 1743, 
 "average_growth": "2036", 
@@ -266,7 +266,7 @@
 "follow_days": "1998", 
 "tomorrow": "4070092", 
 "description": "Top and breaking news, pictures, and videos from Reuters."
-}{
+},{
 "username": "Circa", 
 "started_followers": 771, 
 "average_growth": "23", 
@@ -303,7 +303,7 @@
 "follow_days": "767", 
 "tomorrow": "18690", 
 "description": "Save time. Stay informed. Circa is the best way to read news while on the go. \n\nDownload at http://t.co/PUxrfHtEpK"
-}{
+},{
 "username": "AFP", 
 "started_followers": 379, 
 "average_growth": "189", 
@@ -340,7 +340,7 @@
 "follow_days": "875", 
 "tomorrow": "165812", 
 "description": "News - and the stories behind the news - from AFP's reporters around the world. In French: @afpfr. In Spanish: @AFPespanol. For photos: @AFPphoto"
-}{
+},{
 "username": "intelligencer", 
 "started_followers": 3632, 
 "average_growth": "16", 
@@ -377,7 +377,7 @@
 "follow_days": "1496", 
 "tomorrow": "27223", 
 "description": "New York Magazine's news blog. Tweets by @stefanjbecket."
-}{
+},{
 "username": "HuffingtonPost", 
 "started_followers": 940, 
 "average_growth": "1978", 
@@ -414,7 +414,7 @@
 "follow_days": "1998", 
 "tomorrow": "3954313", 
 "description": "internet lovers | sleep believers | news addicts | big font obsessives | greek yogurt fans"
-}{
+},{
 "username": "thedailybeast", 
 "started_followers": 577, 
 "average_growth": "360", 
@@ -451,7 +451,7 @@
 "follow_days": "1918", 
 "tomorrow": "691608", 
 "description": "Read this, tweet that. 2012 & 2013 #Webby winner for best news website!"
-}{
+},{
 "username": "USATODAY", 
 "started_followers": 210, 
 "average_growth": "496", 
@@ -488,7 +488,7 @@
 "follow_days": "1999", 
 "tomorrow": "991163", 
 "description": "The latest news headlines and interesting stories from http://t.co/tZlSo5NBEn's top news, plus tweets from our social media team."
-}{
+},{
 "username": "washingtonpost", 
 "started_followers": 132, 
 "average_growth": "1295", 
@@ -525,7 +525,7 @@
 "follow_days": "1998", 
 "tomorrow": "2588162", 
 "description": "Tweets about everything from breaking news to bad restaurants. Sometimes global, sometimes local. Led by @TJOrtenzi."
-}{
+},{
 "average_growth": "2773", 
 "date_updated": "2014-03-16", 
 "tomorrow_2w": "5542473", 
@@ -567,7 +567,7 @@
 }, 
 "follow_days": "1998", 
 "growth_since_2w": 51503
-}{
+},{
 "average_growth": "399", 
 "date_updated": "2014-03-16", 
 "tomorrow_2w": "799005", 
@@ -609,7 +609,7 @@
 }, 
 "follow_days": "1999", 
 "growth_since_2w": 15362
-}{
+},{
 "username": "BostonGlobe", 
 "started_followers": 3366, 
 "average_growth": "255", 
@@ -646,7 +646,7 @@
 "follow_days": "1066", 
 "tomorrow": "275309", 
 "description": "Boston and New England's leading news source, in print and online.  For Customer Service, tweet us or email circulationservices@globe.com"
-}{
+},{
 "average_growth": "5643", 
 "date_updated": "2014-03-16", 
 "tomorrow_2w": "11292089", 
@@ -688,7 +688,7 @@
 }, 
 "follow_days": "1998", 
 "growth_since_2w": 163275
-}{
+},{
 "username": "CNBC", 
 "started_followers": 25, 
 "average_growth": "741", 
@@ -725,7 +725,7 @@
 "follow_days": "1914", 
 "tomorrow": "1417853", 
 "description": "First in Business Worldwide"
-}{
+},{
 "username": "NewsBreaker", 
 "started_followers": 20, 
 "average_growth": "135", 
@@ -762,7 +762,7 @@
 "follow_days": "565", 
 "tomorrow": "76363", 
 "description": "@OraTV's @NewsBreaker team delivers #breakingnews and trending buzz in 45 seconds. Tips: newsbreaker@ora.tv"
-}{
+},{
 "username": "NBCNews", 
 "started_followers": 817, 
 "average_growth": "692", 
@@ -799,7 +799,7 @@
 "follow_days": "1998", 
 "tomorrow": "1383387", 
 "description": "A leading source of global news and information for more than 75 years. Have a news tip or question? Ask @Rozzy, @Dubois, @JBaiata or @cdellaverson."
-}{
+},{
 "average_growth": "1535", 
 "date_updated": "2014-03-16", 
 "tomorrow_2w": "3069320", 
@@ -841,7 +841,7 @@
 }, 
 "follow_days": "1998", 
 "growth_since_2w": 48721
-}{
+},{
 "username": "nbcnightlynews", 
 "started_followers": 158, 
 "average_growth": "158", 
@@ -878,7 +878,7 @@
 "follow_days": "1998", 
 "tomorrow": "315152", 
 "description": "#NBCNightlyNews with @BWilliams: America's #1 evening news broadcast. Tweets by @DanLinden & @BraddJaffy. Facebook: http://t.co/e63UsAxK7n"
-}{
+},{
 "username": "businessinsider", 
 "started_followers": 1673, 
 "average_growth": "311", 
@@ -915,7 +915,7 @@
 "follow_days": "1557", 
 "tomorrow": "486784", 
 "description": "The latest business news and analysis."
-}{
+},{
 "username": "Slate", 
 "started_followers": 2167, 
 "average_growth": "393", 
@@ -952,7 +952,7 @@
 "follow_days": "1999", 
 "tomorrow": "788028", 
 "description": "Politics, culture, technology, business, news, and commentary. Procrastinate better."
-}{
+},{
 "username": "Gawker", 
 "started_followers": 1040, 
 "average_growth": "195", 
@@ -989,7 +989,7 @@
 "follow_days": "1998", 
 "tomorrow": "390239", 
 "description": "Today's gossip is tomorrow's news"
-}{
+},{
 "username": "politico", 
 "started_followers": 57, 
 "average_growth": "350", 
@@ -1026,7 +1026,7 @@
 "follow_days": "1999", 
 "tomorrow": "699935", 
 "description": "Politics, Political News"
-}{
+},{
 "username": "FoxNews", 
 "started_followers": 2694, 
 "average_growth": "1873", 
@@ -1063,7 +1063,7 @@
 "follow_days": "1998", 
 "tomorrow": "3746663", 
 "description": "America\u2019s Strongest Primetime Lineup Anywhere! Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos."
-}{
+},{
 "username": "BloombergNews", 
 "started_followers": 3820, 
 "average_growth": "945", 
@@ -1100,7 +1100,7 @@
 "follow_days": "1457", 
 "tomorrow": "1381854", 
 "description": "Bloomberg News is the first word in business and finance."
-}{
+},{
 "username": "TPM", 
 "started_followers": 733, 
 "average_growth": "76", 
@@ -1137,7 +1137,7 @@
 "follow_days": "1998", 
 "tomorrow": "152904", 
 "description": "Breaking news and analysis from the TPM team."
-}{
+},{
 "username": "AJELive", 
 "started_followers": 2, 
 "average_growth": "298", 
@@ -1174,7 +1174,7 @@
 "follow_days": "1904", 
 "tomorrow": "567225", 
 "description": "Breaking news alerts and updates from Al Jazeera English, a 24-hour news and current affairs channel. For news, features and analysis follow @AJEnglish."
-}{
+},{
 "username": "ajamlive", 
 "started_followers": 661, 
 "average_growth": "65", 
@@ -1211,4 +1211,4 @@
 "follow_days": "208", 
 "tomorrow": "14308", 
 "description": "Breaking news alerts and updates from Al Jazeera America, a 24 hour news and current affairs channel. For news, features and analysis follow @AJAM"
-}
+},{"version":"1.2","twitter_id":"5695632","username":"BuzzFeed","url":"http:\/\/www.buzzfeed.com","avatar":"http:\/\/pbs.twimg.com\/profile_images\/2852410605\/6e6da28a06cfd7aea20a3cc393ef1182_normal.png","name":"BuzzFeed","description":"Worth Sharing. (Tweets by @samir and others)","timezone":"Eastern Time (US & Canada)","location":"New York","followers_current":822795,"date_updated":"2014-03-17","follow_days":"1999","started_followers":1130,"growth_since":821665,"average_growth":"411","tomorrow":"823206","next_month":"835125","followers_yesterday":"822384","rank":"522","followers_2w_ago":799675,"growth_since_2w":23120,"average_growth_2w":"1651","tomorrow_2w":"824446","next_month_2w":"872325","followersperdate":{"date2014-03-17":822795,"date2014-03-16":821165,"date2014-03-15":819690,"date2014-03-14":818239,"date2014-03-13":816576,"date2014-03-12":815045,"date2014-03-11":814364,"date2014-03-10":811334,"date2014-03-09":809985,"date2014-03-08":808615,"date2014-03-07":807070,"date2014-03-06":805331,"date2014-03-05":804259,"date2014-03-04":803206},"last_update":1395112238}]

@@ -30,3 +30,4 @@ bloombergnews
 TPM
 AJELive
 AjamLive
+BuzzFeed

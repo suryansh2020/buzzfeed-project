@@ -20,7 +20,7 @@ def twitter_api():
 
 	for user in usernames:
 		header, response = client.request('https://api.twitter.com/1.1/users/lookup.json?screen_name=' + user, method="GET")
-		data = json.loads(response)[0]
+		data = json.loads(response)
 
 		# For Twitter counter lookup
 		twitter_id = json.dumps(data['id'])

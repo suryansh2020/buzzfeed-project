@@ -3,7 +3,7 @@ import json
 import urllib2
 import time
 
-def tweets(username, count, max_id=''):
+def tweets(username, count, filename, max_id='', add=''):
 	consumer_key = 'hi8NdkCukk9smiSznv09kw'
 	consumer_secret = 'GZWvYvF7rSRN3QDO3qSFbIsfrPrbnU2BG59tfCaE'
 	access_token = '321666686-bSpt0wXlhMfN8GMnL0ckMoEFszswcl4fhCTP273g'
@@ -18,10 +18,46 @@ def tweets(username, count, max_id=''):
 	else:
 		header, response = client.request('https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=' + username + '&count=' + count, method="GET")
 
-	data = json.loads(response)[0]
-	header = json.loads(header)
 	
-	time.sleep(3)
-	return header
+	if add == 'yes':
+		data = json.loads(response)
+		f = open(filename, 'a')
+	else:
+		data = json.loads(response)
+		f = open(filename, 'w')
 
-print tweets('buzzfeed', '2')
+	last_id = str(data[-1]['id'])
+	last_date = data[-1]['created_at']
+
+	f.write(json.dumps(data, indent=0))
+	time.sleep(10)
+	return last_id, last_date
+
+def continuing(user, filename):
+	last_id, last_date = tweets(user, '200', filename)
+	num_tweets = 200
+	done = 'no'
+
+	while done != 'yes':
+		print last_id, last_date
+
+		if num_tweets < 3200:
+
+			if last_date[-4:] == '2014':
+
+				if last_date[4:9] != 'Feb 1':
+					last_id, last_date = tweets(user, '200', filename, max_id=last_id, add='yes')
+					num_tweets += 200
+				else:
+					done = 'yes'
+			else:
+				done = 'yes'
+		else:
+			done = 'yes'
+
+userlist = open('../data/usernames.txt', 'rU')
+
+for u in userlist:
+	u = u.strip()
+	print u
+	continuing(u, u + '.txt')

@@ -3,7 +3,7 @@ import json
 #with open('AP.txt') as user_info:
 #    user_info = json.loads(user_info)
 
-user_info = open('AP.txt').read()
+user_info = open('../json/ABC.txt').read()
 
 
 def iload_json(f, decoder=None, _w=json.decoder.WHITESPACE.match):
@@ -24,5 +24,11 @@ def iload_json(f, decoder=None, _w=json.decoder.WHITESPACE.match):
 
 ap_json = list(iload_json(user_info))
 
-for item in ap_json[10][1].keys():
-	print item + ':', ap_json[10][1][item]
+#print len(ap_json)
+
+new_ap = [item for sublist in ap_json for item in sublist]
+
+print len(new_ap)
+
+for item in new_ap[10].keys():
+	print item + ':', new_ap[10][item]

@@ -7,6 +7,7 @@ user_info = open('AP.txt').read()
 
 
 def iload_json(f, decoder=None, _w=json.decoder.WHITESPACE.match):
+	
 	decoder = decoder or json._default_decoder
 	idx = _w(f, 0).end()
 	end = len(f)

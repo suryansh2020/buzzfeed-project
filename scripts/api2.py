@@ -2,12 +2,13 @@ import oauth2 as oauth
 import json
 import urllib2
 import time
+import os
 
 def tweets(username, count, filename, max_id='', add=''):
-	consumer_key = 'hi8NdkCukk9smiSznv09kw'
-	consumer_secret = 'GZWvYvF7rSRN3QDO3qSFbIsfrPrbnU2BG59tfCaE'
-	access_token = '321666686-bSpt0wXlhMfN8GMnL0ckMoEFszswcl4fhCTP273g'
-	access_secret = 'utnIce1hMPAEZgAsRTKeVnm0qzmBzV4o0t8dj5PtY'
+	consumer_key = os.environ['CONSUMER_KEY']
+	consumer_secret = os.environ['CONSUMER_SECRET']
+	access_token = os.environ['ACCESS_TOKEN']
+	access_secret = os.environ['ACCESS_SECRET']
 
 	consumer = oauth.Consumer(key=consumer_key, secret=consumer_secret)
 	token = oauth.Token(key=access_token, secret=access_secret)

@@ -1,27 +1,12 @@
-from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.orm import create_session
 from sqlalchemy import *
+from database import *
 
-engine = create_engine('postgresql://postgres:m0rg3ns0nn3@localhost:5432/twitter_data')
+usernames = open('../data/usernames.txt', 'rU')
+table_list = []
 
-Base = declarative_base()
+for name in usernames:
+	test = Table(name.strip(), metadata, Column('id', Integer, primary_key=True), Column('text', String(300)), Column('favorite_count', Integer), Column('is_RT', String(10)), Column('RT_count', Integer), Column('date', DateTime))
+	table_list.append(test)
 
-class Table(Base):
-	__tablename__ = 'WashingtonPost'
-
-	id = Column(Integer, primary_key=True)
-	text = Column(String)
-	favorite_count = Column(Integer)
-	is_RT = Column(String)
-	RT_count = Column(Integer)
-	date = Column(DateTime)
-
-	def __init__(self, name, age):
-		self.text = text
-		self.favorite_count = favorite_count
-		self.is_RT = is_RT
-		self.RT_count = RT_count
-		self.date = date
-
-Base.metadata.create_all(engine)
+metadata.create_all(engine)
 
